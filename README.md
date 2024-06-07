@@ -1,2 +1,2 @@
 # Zona-7-Guasca
-Mapa base
+Mapa basico
